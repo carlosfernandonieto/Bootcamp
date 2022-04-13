@@ -1,0 +1,20 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "Primer proyecto de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosfernandonieto/node-project.git"
+  },
+  "author": "Carlos Nieto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosfernandonieto/node-project/issues"
+  },
+  "homepage": "https://github.com/carlosfernandonieto/node-project#readme"
+}
+
